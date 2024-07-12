@@ -1,0 +1,17 @@
+npm init react-app my-app
+es7
+npm install react-router-dom
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=-ZMP8ZladIQ
+
+
+
+https://www.youtube.com/watch?v=R18DbNdYqJE
+
+https://www.youtube.com/watch?v=tEMrD9t85v4
